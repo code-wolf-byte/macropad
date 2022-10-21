@@ -5,7 +5,7 @@ Working on makeshift, open-source and hackable Macropad. The project Idea is to 
 
 # Inspiration
 
-The inspiration for his project came from a product from <a href="https://www.adafruit.com/product/5128">Adafruit</a>. The current version of project is in development is inspired by <a href="https://www.instructables.com/member/tinyboatproductions">TinyBoatProductions</a>. Full demo <a href="https://www.youtube.com/watch?v=GuQxLqAc5GE">here</a> The idea is to build the project on a more software base rather than on a hardare level that can be customised by anyone. 
+The inspiration for his project came from a product from <a href="https://www.adafruit.com/product/5128">Adafruit</a>. The current version of project is in development is inspired by <a href="https://www.instructables.com/member/tinyboatproductions">TinyBoatProductions</a>. Full demo <a href="https://www.youtube.com/watch?v=GuQxLqAc5GE">here</a>. The idea is to build the project on a more software base rather than on a hardare level that can be customised by anyone. 
 
 # Plan of Action
 

@@ -49,17 +49,16 @@ This project is a Macropad, for people who want to have a nice and hackable keyb
 
 ### Schematic
 
-![Schematic](https://raw.githubusercontent.com/marcofugaro/macropad/master/images/schematic.png)
-
+![Schematic]
 ### Layout
 
-![Layout](https://raw.githubusercontent.com/marcofugaro/macropad/master/images/layout.png)
+![Layout]
 
 ## Software
 
 ### System
 
-The system is based on the [QMK Firmware](
+The system is based on the [QMK Firmware]
 
 # Inspiration
 

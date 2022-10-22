@@ -14,3 +14,10 @@ The inspiration for his project came from a product from <a href="https://www.ad
   <li>Work on a script that can alter macros on the fly.</li>
   <li>Get a simple GUI up and ready.</li>
 </ul>
+
+
+# 3D models from TinyBoatProductions
+<div display = "flex">
+  <img src = "https://github.com/code-wolf-byte/macropad/blob/main/assets/images/MacroPad_V5_Case_Bottom_V1.png" width="500" height="300">
+  <img src = "https://github.com/code-wolf-byte/macropad/blob/main/assets/images/MacroPad_V5_Case_Top_V4.png" width="500" height="300">
+ </div>

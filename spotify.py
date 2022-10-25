@@ -5,7 +5,7 @@ from pprint import pprint
 
 
 SPOTIFY_GET_CURRENT_TRACK_URL = 'https://api.spotify.com/v1/me/player/currently-playing'
-ACCESS_TOKEN = 'BQBRaGdEOnnbnvmertTDBWWIqMCZfdPpQG6OXUg3udvCtBNjuNSuBuf_HYIM67QXInn8GFQUYquQ8eAxtA6xiyfp_hCNpVPcBi_R1gSZlqnStzYRzz39ynEEB2ZosfyhFc7MV3WOGJ4jSm1AHj-cV2PiyyzGzxaUJKQptatR9Q-uXk5EQ13GpoD0jeqsSsOsI_9D'
+ACCESS_TOKEN = ''
 
 
 def get_current_track():

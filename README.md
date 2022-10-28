@@ -34,18 +34,7 @@ This project is a Macropad, for people who want to have a nice and hackable keyb
 - 12 1N4148 Diodes
 - 12 10k Resistors
 - 12 1k Resistors
-- 12 0.1uF Capacitors
-- 12 10uF Capacitors
-- 12 100nF Capacitors
-- 12 10nF Capacitors
-- 12 1nF Capacitors
-- 12 0.1nF Capacitors
-- 12 0.01nF Capacitors
-- 12 0.001nF Capacitors
-- 12 0.0001nF Capacitors
-- 12 0.00001nF Capacitors
-- 12 0.000001nF Capacitors
-- 12 0.0000001nF Capacitors
+
 
 ### Schematic
 
@@ -66,8 +55,7 @@ The inspiration for his project came from a product from <a href="https://www.ad
 
 # What it does
 
-The project is a macropad that can be used to execute macros or commands on a computer. The project is build using <a href="https://www.adafruit.com/product/3775">Feather M0</a> and <a href="https://www.adafruit.com/product/3711">Featherwing OLED</a>. The project is build on the <a href="
-
+The project is a macropad that can be used to execute macros or commands on a computer. The project is build using <a href="https://www.adafruit.com/product/3775">Feather M0</a> and <a href="https://www.adafruit.com/product/3711">Featherwing OLED</a>. 
 # Plan of Action
 
 <ul>
